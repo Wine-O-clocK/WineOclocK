@@ -6,7 +6,7 @@
 
 ### 🍷 Contributors
 - [김규리](https://github.com/bnfkim) : 백엔드
-- [이예원](https://github.com/) : 프론트엔드
+- [이예원](https://github.com/yen001004) : 프론트엔드
 - [임가비](https://github.com/limgabi) : 프론트엔드
 
 
